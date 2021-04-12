@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerBody
+  - Road
+  - Ring
+  - Tree
+  - Stone
+  - Rope
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Char
+  - NoCol
+  - Line
+  - Road
+  - Rope
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ring
+    uniqueID: 4062117717
+    locked: 0
+  - name: Player
+    uniqueID: 1543291253
+    locked: 0
+  - name: Rope
+    uniqueID: 595141229
+    locked: 0
